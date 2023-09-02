@@ -24,5 +24,5 @@ if (a == "Positivo" && a <= 30 ) {
     return "El numero es " + b;
 
 }
-
+console.log();
 
